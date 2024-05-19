@@ -13,6 +13,17 @@
     ]
   },
   "Packages": {
+    "digest": {
+      "Package": "digest",
+      "Version": "0.6.35",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": [
+        "R",
+        "utils"
+      ],
+      "Hash": "698ece7ba5a4fa4559e3d537e7ec3d31"
+    },
     "renv": {
       "Package": "renv",
       "Version": "1.0.7",
